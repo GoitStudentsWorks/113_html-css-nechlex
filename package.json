@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-proj-14/",
+    "build": "vite build --base=/113_html-css-nechlex/",
     "preview": "vite preview"
   },
   "devDependencies": {
